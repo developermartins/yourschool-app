@@ -1,7 +1,7 @@
 
 const ParentPage = () => {
   return (
-    <div>page</div>
+    <div>Parent Page</div>
   );
 };
 
